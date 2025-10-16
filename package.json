@@ -1,0 +1,27 @@
+{
+  "name": "@vkbo/codename",
+  "version": "0.0.1",
+  "description": "Generates random codenames for your projects.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkboo/codename.git"
+  },
+  "keywords": [
+    "codename",
+    "random",
+    "generator"
+  ],
+  "author": "vkboo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vkboo/codename/issues"
+  },
+  "homepage": "https://github.com/vkboo/codename#readme",
+  "bin": {
+    "codename": "./index.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
