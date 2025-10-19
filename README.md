@@ -16,7 +16,7 @@ Generates random codenames for your projects.
 ## Installation
 
 ```bash
-npm install @vkboo/codename
+npm install -g @vkboo/codename
 ```
 ## Usage
 
