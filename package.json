@@ -1,6 +1,6 @@
 {
   "name": "@vkbo/codename",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generates random codenames for your projects.",
   "main": "index.js",
   "repository": {
