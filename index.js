@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const LETTER = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
 const DIGIT = '0123456789';
 
